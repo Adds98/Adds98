@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on [¿Qué pasaría si en el avión...?](https://github.com/Adds98/WHITP)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adds98](https://github.com/Adds98)
+- 👨‍💻 All of my projects are available at [https://github.com/AddsDev](https://github.com/Adds98)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  addsdeveloper@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
