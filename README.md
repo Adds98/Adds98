@@ -21,3 +21,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AddsDev&theme=tokyonight&show_icons=true&include_all_commits=true )](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AddsDev&theme=github-dark&hide_border=false" alt="AddsDev"/></p>
